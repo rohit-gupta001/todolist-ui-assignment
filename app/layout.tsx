@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-	title: "Zustodo",
-	description: "Todo-list app with Next.js and Zustand",
+	title: "Todo list",
+	description: "the todo list with zustand and next",
 };
 
 export default function RootLayout({
